@@ -1,0 +1,130 @@
+# view AndroidManifest.xml #generated:139
+-keep class com.google.android.apps.mytracks.AggregatedStatsActivity { <init>(...); }
+
+# view res/xml/recording_settings.xml #generated:26
+-keep class com.google.android.apps.mytracks.AutoCompleteTextPreference { <init>(...); }
+
+# view AndroidManifest.xml #generated:231
+-keep class com.google.android.apps.mytracks.BootReceiver { <init>(...); }
+
+# view AndroidManifest.xml #generated:142
+-keep class com.google.android.apps.mytracks.HelpActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:145
+-keep class com.google.android.apps.mytracks.ImportActivity { <init>(...); }
+
+# view res/xml/recording_settings.xml #generated:32
+# view res/xml/recording_settings.xml #generated:38
+# view res/xml/recording_settings.xml #generated:44
+# view res/xml/recording_settings.xml #generated:50
+# view res/xml/recording_settings.xml #generated:56
+-keep class com.google.android.apps.mytracks.IntegerListPreference { <init>(...); }
+
+# view AndroidManifest.xml #generated:163
+-keep class com.google.android.apps.mytracks.MarkerDetailActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:161
+-keep class com.google.android.apps.mytracks.MarkerEditActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:164
+-keep class com.google.android.apps.mytracks.MarkerListActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:126
+-keep class com.google.android.apps.mytracks.MyTracksApplication { <init>(...); }
+
+# view AndroidManifest.xml #generated:169
+-keep class com.google.android.apps.mytracks.SearchListActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:180
+-keep class com.google.android.apps.mytracks.SensorStateActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:183
+-keep class com.google.android.apps.mytracks.TrackDetailActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:184
+-keep class com.google.android.apps.mytracks.TrackEditActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:186
+-keep class com.google.android.apps.mytracks.TrackListActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:249
+-keep class com.google.android.apps.mytracks.content.MyTracksProvider { <init>(...); }
+
+# view AndroidManifest.xml #generated:256
+-keep class com.google.android.apps.mytracks.content.SearchEngineProvider { <init>(...); }
+
+# view AndroidManifest.xml #generated:197
+-keep class com.google.android.apps.mytracks.io.backup.BackupActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:126
+-keep class com.google.android.apps.mytracks.io.backup.MyTracksBackupAgent { <init>(...); }
+
+# view AndroidManifest.xml #generated:198
+-keep class com.google.android.apps.mytracks.io.backup.RestoreActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:199
+-keep class com.google.android.apps.mytracks.io.backup.RestoreChooserActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:200
+-keep class com.google.android.apps.mytracks.io.docs.SendDocsActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:201
+-keep class com.google.android.apps.mytracks.io.file.SaveActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:202
+-keep class com.google.android.apps.mytracks.io.fusiontables.SendFusionTablesActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:203
+-keep class com.google.android.apps.mytracks.io.maps.ChooseMapActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:206
+-keep class com.google.android.apps.mytracks.io.maps.SendMapsActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:207
+-keep class com.google.android.apps.mytracks.io.sendtogoogle.AccountChooserActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:208
+-keep class com.google.android.apps.mytracks.io.sendtogoogle.ConfirmSharingActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:209
+-keep class com.google.android.apps.mytracks.io.sendtogoogle.UploadResultActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:219
+-keep class com.google.android.apps.mytracks.services.ControlRecordingService { <init>(...); }
+
+# view AndroidManifest.xml #generated:222
+-keep class com.google.android.apps.mytracks.services.RemoveTempFilesService { <init>(...); }
+
+# view AndroidManifest.xml #generated:223
+-keep class com.google.android.apps.mytracks.services.TrackRecordingService { <init>(...); }
+
+# view AndroidManifest.xml #generated:210
+-keep class com.google.android.apps.mytracks.settings.BackupSettingsActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:211
+-keep class com.google.android.apps.mytracks.settings.ChartSettingsActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:212
+-keep class com.google.android.apps.mytracks.settings.MapSettingsActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:213
+-keep class com.google.android.apps.mytracks.settings.RecordingSettingsActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:214
+-keep class com.google.android.apps.mytracks.settings.SensorSettingsActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:215
+-keep class com.google.android.apps.mytracks.settings.SettingsActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:216
+-keep class com.google.android.apps.mytracks.settings.SharingSettingsActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:217
+-keep class com.google.android.apps.mytracks.settings.StatsSettingsActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:236
+-keep class com.google.android.apps.mytracks.widgets.TrackWidgetProvider { <init>(...); }
+
+# view res/layout/map.xml #generated:21
+-keep class com.google.android.maps.MapView { <init>(...); }
+
